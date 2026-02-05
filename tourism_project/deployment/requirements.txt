@@ -4,4 +4,4 @@ xgboost
 joblib
 huggingface_hub
 streamlit
-mflow
+mlflow
